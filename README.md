@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 4 | 0 | `2026-10-15` |
+| **5** | 0 | 5 | 0 | `2026-10-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,6 +20,7 @@
 | 0002 | [995. Pattern 6](./DSA/General/pattern-6) | [PY](./DSA/General/pattern-6/solution.py) | ⚪ Unspecified | `General` | `2026-10-15` |
 | 0003 | [997. Pattern 7](./DSA/General/pattern-7) | [PY](./DSA/General/pattern-7/solution.py) | ⚪ Unspecified | `General` | `2026-10-15` |
 | 0004 | [1006. Pattern 8](./DSA/General/pattern-8) | [PY](./DSA/General/pattern-8/solution.py) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0005 | [1008. Pattern 9](./DSA/General/pattern-9) | [PY](./DSA/General/pattern-9/solution.py) | ⚪ Unspecified | `General` | `2026-10-15` |
 
 ---
 
