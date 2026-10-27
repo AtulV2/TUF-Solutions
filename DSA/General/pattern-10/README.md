@@ -1,4 +1,4 @@
-# [898. Pattern 10](https://takeuforward.org/practice/dsa/pattern-10?discussion_id=9348)
+# [898. Pattern 10](https://takeuforward.org/practice/dsa/pattern-10)
 
 ![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
 
