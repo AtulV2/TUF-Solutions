@@ -6,18 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 0 | 20 | 0 | `2026-10-28` |
+| **21** | 0 | 21 | 0 | `2026-10-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (20)
+### DSA (21)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0002 | [898. Pattern 10](./DSA/General/pattern-10) | [PY](./DSA/General/pattern-10/solution.py) [JAVA](./DSA/General/pattern-10/solution.java) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0002 | [898. Pattern 10](./DSA/General/pattern-10) | [JAVA](./DSA/General/pattern-10/solution.java) [PY](./DSA/General/pattern-10/solution.py) | ⚪ Unspecified | `General` | `2026-10-27` |
 | 0003 | [907. Pattern 11](./DSA/General/pattern-11) | [PY](./DSA/General/pattern-11/solution.py) | ⚪ Unspecified | `General` | `-` |
 | 0004 | [909. Pattern 12](./DSA/General/pattern-12) | [PY](./DSA/General/pattern-12/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
 | 0005 | [918. Pattern 13](./DSA/General/pattern-13) | [PY](./DSA/General/pattern-13/solution.py) | ⚪ Unspecified | `General` | `2026-10-16` |
@@ -29,13 +29,14 @@
 | 0011 | [951. Pattern 19](./DSA/General/pattern-19) | [JAVA](./DSA/General/pattern-19/solution.java) | ⚪ Unspecified | `General` | `2026-10-27` |
 | 0012 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `-` |
 | 0013 | [962. Pattern 20](./DSA/General/pattern-20) | [JAVA](./DSA/General/pattern-20/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
-| 0014 | [975. Pattern 3](./DSA/General/pattern-3) | [PY](./DSA/General/pattern-3/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0015 | [984. Pattern 4](./DSA/General/pattern-4) | [PY](./DSA/General/pattern-4/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0016 | [986. Pattern 5](./DSA/General/pattern-5) | [PY](./DSA/General/pattern-5/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0017 | [995. Pattern 6](./DSA/General/pattern-6) | [PY](./DSA/General/pattern-6/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0018 | [997. Pattern 7](./DSA/General/pattern-7) | [PY](./DSA/General/pattern-7/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0019 | [1006. Pattern 8](./DSA/General/pattern-8) | [PY](./DSA/General/pattern-8/solution.py) | ⚪ Unspecified | `General` | `-` |
-| 0020 | [1008. Pattern 9](./DSA/General/pattern-9) | [PY](./DSA/General/pattern-9/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0014 | [964. Pattern 21](./DSA/General/pattern-21) | [JAVA](./DSA/General/pattern-21/solution.java) | ⚪ Unspecified | `General` | `2026-10-28` |
+| 0015 | [975. Pattern 3](./DSA/General/pattern-3) | [PY](./DSA/General/pattern-3/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0016 | [984. Pattern 4](./DSA/General/pattern-4) | [PY](./DSA/General/pattern-4/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0017 | [986. Pattern 5](./DSA/General/pattern-5) | [PY](./DSA/General/pattern-5/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0018 | [995. Pattern 6](./DSA/General/pattern-6) | [PY](./DSA/General/pattern-6/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0019 | [997. Pattern 7](./DSA/General/pattern-7) | [PY](./DSA/General/pattern-7/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0020 | [1006. Pattern 8](./DSA/General/pattern-8) | [PY](./DSA/General/pattern-8/solution.py) | ⚪ Unspecified | `General` | `-` |
+| 0021 | [1008. Pattern 9](./DSA/General/pattern-9) | [PY](./DSA/General/pattern-9/solution.py) | ⚪ Unspecified | `General` | `-` |
 
 ---
 
